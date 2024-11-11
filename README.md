@@ -2,7 +2,7 @@
 
 **Welcome to my second project using HTML &amp; CSS ❤**
 
-![Screenshot (154)](https://github.com/user-attachments/assets/f24af575-8bf5-423f-bd9b-fe7d3a3f851a)
+![FreshBooks](https://github.com/user-attachments/assets/605faefb-0af1-41ea-9005-4b89ad89409b)
 
 - [Demo Project](https://shayanmnik.github.io/FreshBooks/)
 
