@@ -4,7 +4,7 @@
 
 ![Screenshot (154)](https://github.com/user-attachments/assets/f24af575-8bf5-423f-bd9b-fe7d3a3f851a)
 
-- [Demo Project](https://shayanmnik.github.io/Avada-Bed-Breakfast/)
+- [Demo Project](https://shayanmnik.github.io/FreshBooks/)
 
 - Developed by Shayan Nik
 
